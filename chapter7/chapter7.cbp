@@ -40,6 +40,9 @@
 		<Unit filename="7_1_3.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="7_1_3_bestsolution.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="7_1_answer.c">
 			<Option compilerVar="CC" />
 		</Unit>
