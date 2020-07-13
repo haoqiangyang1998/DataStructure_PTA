@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1594027825 source:d:\zhejianguniversity_datastructure\chapter7\main.c
+
+1594186593 source:d:\zhejianguniversity_datastructure\chapter7\7_1_1.c
+
+1594037195 source:d:\zhejianguniversity_datastructure\chapter7\7_1_answer.c
+
+1594113261 source:d:\zhejianguniversity_datastructure\chapter7\7_2.c
+
+1594129516 source:d:\zhejianguniversity_datastructure\chapter7\7_1_2_answer.c
+
+1594219504 source:d:\zhejianguniversity_datastructure\chapter7\7_1_3.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
