@@ -31,6 +31,66 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="5_1_3_answer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_1_4_answer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_1_4_newanswer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_2_1_answer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_2_2_answer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_2_2_newfile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_2_3_answer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_2_4_answer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_3_1_answer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_3_2_anothermethod.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="5_3_2_answer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6_1_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6_1_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6_1_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6_1_6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6_1_7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6_2_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6_2_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="6_3_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="7_1_1.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -43,10 +103,28 @@
 		<Unit filename="7_1_3_bestsolution.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="7_1_4_solution1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="7_1_5_solution1.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="7_1_answer.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="7_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="7_2_1_solution1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="7_2_2_solution1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="7_2_2_solution2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="8_1_solution2.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">

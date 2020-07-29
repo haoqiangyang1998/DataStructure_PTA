@@ -26,8 +26,60 @@
 
 1594625190 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\7_1_3.c
 
-1594629654 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\7_1_3_bestsolution.c
+1594640604 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\7_1_3_bestsolution.c
+
+1594649967 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\7_1_4_solution1.c
+
+1594697527 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\7_1_5_solution1.c
+
+1594714321 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\7_2_1_solution1.c
+
+1594802424 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\7_2_2_solution1.c
+
+1594802429 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\7_2_2_solution2.c
+
+1594867836 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\8_1_solution2.c
+
+1594886418 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_1_3_answer.c
+
+1594977734 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_1_4_answer.c
+
+1594977718 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_1_4_newanswer.c
+
+1595040290 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_2_1_answer.c
+
+1595079187 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_2_2_answer.c
+
+1595043480 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_2_2_newfile.c
+
+1595082894 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_2_3_answer.c
+
+1595120011 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_3_1_answer.c
+
+1595140746 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_2_4_answer.c
+
+1595244741 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_3_2_answer.c
+
+1595244738 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\5_3_2_anothermethod.c
+
+1595406222 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\6_1_1.c
+
+1595408758 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\6_1_3.c
+
+1595647722 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\6_1_4.c
+
+1595677242 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\6_1_5.c
+
+1595726692 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\6_1_6.c
+
+1595756940 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\6_1_7.c
+
+1595819794 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\6_2_1.c
+
+1595919846 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\6_2_2.c
+
+1595928160 source:d:\workplace_uptogithub\datastructure_updatatogithub\chapter7\6_3_4.c
 	<stdio.h>
 	<stdlib.h>
-	<stdbool.h>
+	<math.h>
 

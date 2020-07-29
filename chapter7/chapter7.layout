@@ -2,40 +2,170 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
+	<File name="5_1_4_newanswer.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2353" topLine="93" />
+		</Cursor>
+	</File>
+	<File name="5_2_2_newfile.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="148" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="5_1_3_answer.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1336" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="6_1_6.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3044" topLine="44" />
+		</Cursor>
+	</File>
+	<File name="5_2_2_answer.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2553" topLine="95" />
+		</Cursor>
+	</File>
+	<File name="5_3_2_anothermethod.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5110" topLine="208" />
+		</Cursor>
+	</File>
+	<File name="7_1_1.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7168" topLine="238" />
+		</Cursor>
+	</File>
+	<File name="6_1_7.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3999" topLine="163" />
+		</Cursor>
+	</File>
+	<File name="7_1_5_solution1.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="577" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="7_2.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2835" topLine="117" />
+		</Cursor>
+	</File>
+	<File name="7_2_1_solution1.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="343" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="7_1_3.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2902" topLine="130" />
+		</Cursor>
+	</File>
+	<File name="7_1_4_solution1.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="145" topLine="0" />
+		</Cursor>
+	</File>
 	<File name="7_1_answer.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="1411" topLine="46" />
 		</Cursor>
 	</File>
-	<File name="7_2.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="8_1_solution2.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2835" topLine="117" />
+			<Cursor1 position="478" topLine="16" />
 		</Cursor>
 	</File>
-	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="5_3_1_answer.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2258" topLine="94" />
+			<Cursor1 position="2459" topLine="98" />
 		</Cursor>
 	</File>
-	<File name="7_1_3_bestsolution.c" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="5_1_4_answer.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1522" topLine="71" />
+			<Cursor1 position="2622" topLine="94" />
 		</Cursor>
 	</File>
-	<File name="7_1_2_answer.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="main.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2318" topLine="101" />
+			<Cursor1 position="2258" topLine="92" />
 		</Cursor>
 	</File>
-	<File name="7_1_1.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="6_1_1.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="7168" topLine="240" />
+			<Cursor1 position="1154" topLine="33" />
 		</Cursor>
 	</File>
-	<File name="7_1_3.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="7_2_2_solution1.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="2902" topLine="132" />
+			<Cursor1 position="2491" topLine="109" />
 		</Cursor>
 	</File>
-	<EditorTabsLayout layout="110488f85f0c0c99002bae7a00000002=2;chapter7:main.c,3;chapter7:7_1_1.c,4;chapter7:7_2.c,0;chapter7:7_1_2_answer.c,1;chapter7:7_1_3.c,*5;chapter7:7_1_3_bestsolution.c@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=658;besth=366;minw=658;minh=366;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=110488f85f0c0c99002bae7a00000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+	<File name="7_2_2_solution2.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1351" topLine="69" />
+		</Cursor>
+	</File>
+	<File name="6_1_3.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2750" topLine="104" />
+		</Cursor>
+	</File>
+	<File name="7_1_2_answer.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2318" topLine="99" />
+		</Cursor>
+	</File>
+	<File name="6_1_5.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3908" topLine="135" />
+		</Cursor>
+	</File>
+	<File name="6_3_4.c" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5086" topLine="213" />
+		</Cursor>
+	</File>
+	<File name="6_2_2.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1512" topLine="72" />
+		</Cursor>
+	</File>
+	<File name="7_1_3_bestsolution.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="5_2_3_answer.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2626" topLine="101" />
+		</Cursor>
+	</File>
+	<File name="6_2_1.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2959" topLine="120" />
+		</Cursor>
+	</File>
+	<File name="5_3_2_answer.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5103" topLine="188" />
+		</Cursor>
+	</File>
+	<File name="6_1_4.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2244" topLine="96" />
+		</Cursor>
+	</File>
+	<File name="5_2_1_answer.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2603" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="5_2_4_answer.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="121" topLine="0" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="11fcd8b85f1fce2e0000395f00000002=0;chapter7:6_1_4.c,1;chapter7:6_1_5.c,2;chapter7:6_1_6.c,3;chapter7:6_2_1.c,4;chapter7:6_2_2.c,*5;chapter7:6_3_4.c@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=588;besth=362;minw=588;minh=362;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=11fcd8b85f1fce2e0000395f00000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
 </CodeBlocks_layout_file>
